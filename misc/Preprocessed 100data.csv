@@ -1,0 +1,101 @@
+comment,label,tokenized
+sangat baik,1,"['sangat', 'baik']"
+bagus dan bermanfaat,1,"['bagus', 'dan', 'bermanfaat']"
+gak aja,-1,"['gak', 'aja']"
+kadang bisa kebuka kadang stuck di logo...!,-1,"['kadang', 'bisa', 'kebuka', 'kadang', 'stuck', 'di', 'logo']"
+sangt memuas kn,1,"['sangt', 'memuas', 'kn']"
+ga bisa mulai ..,-1,"['ga', 'bisa', 'mulai']"
+"kenapa setiap mengisi tanggal lahir tidak bisa, susah sekali, tolong bagaimana caranya, setiap mengklik tgl lahir tidak bisa , saya beri bintang 1 saja",-1,"['kenapa', 'setiap', 'mengisi', 'tanggal', 'lahir', 'tidak', 'bisa', 'susah', 'sekali', 'tolong', 'bagaimana', 'caranya', 'setiap', 'mengklik', 'tgl', 'lahir', 'tidak', 'bisa', 'saya', 'beri', 'bintang', '1', 'saja']"
+tolong dong percepatan kartu vaksinnya di tingkatkan lagi masa udh 2 minggu lebih dari vaksinasi kartunya blom keluar udh beberapa keluarga yg vaksin tapi kartunya gk muncul??,-1,"['tolong', 'dong', 'percepatan', 'kartu', 'vaksinnya', 'di', 'tingkatkan', 'lagi', 'masa', 'udh', '2', 'minggu', 'lebih', 'dari', 'vaksinasi', 'kartunya', 'blom', 'keluar', 'udh', 'beberapa', 'keluarga', 'yg', 'vaksin', 'tapi', 'kartunya', 'gk', 'muncul']"
+bagus,1,['bagus']
+"saya mau bertanya kenapa bila yang belum vaksin sama sekali,. tapi bisa yah meminjam data orang lain di aplikasi ini atas nama orang lain ,, dan berkeliaran bebas di mall dan tempat tempat keramaian lain nya,. mohon di tindak lanjuti laporan saya ini terimakasih.",-1,"['saya', 'mau', 'bertanya', 'kenapa', 'bila', 'yang', 'belum', 'vaksin', 'sama', 'sekali', 'tapi', 'bisa', 'yah', 'meminjam', 'data', 'orang', 'lain', 'di', 'aplikasi', 'ini', 'atas', 'nama', 'orang', 'lain', 'dan', 'berkeliaran', 'bebas', 'di', 'mall', 'dan', 'tempat', 'tempat', 'keramaian', 'lain', 'nya', 'mohon', 'di', 'tindak', 'lanjuti', 'laporan', 'saya', 'ini', 'terimakasih']"
+"sudah vaksin pertama dan kedua.. waktu download dan masukan data, e-sertifikat vaksin muncul.. tapi barusan saya cel lagi.. kenapa hilang dan tidak muncul e-sertifikat vaksin saya?? malah ada keterangan saya harus vaksin.. padahal kan jelas saya sudah vaksin.",-1,"['sudah', 'vaksin', 'pertama', 'dan', 'waktu', 'download', 'dan', 'masukan', 'data', 'vaksin', 'tapi', 'barusan', 'saya', 'cel', 'kenapa', 'hilang', 'dan', 'tidak', 'muncul', 'vaksin', 'saya', 'malah', 'ada', 'keterangan', 'saya', 'harus', 'padahal', 'kan', 'jelas', 'saya', 'sudah', 'vaksin']"
+kok aplikasi peduli kok gk bisa di buka,-1,"['kok', 'aplikasi', 'peduli', 'kok', 'gk', 'bisa', 'di', 'buka']"
+ok,1,['ok']
+gak bisa masuk. eror di bilang nama dan no ktp tidak sesuai. pdhal no ktp dan nama aktif di capil. apakah sudah penuh koutanya ??,-1,"['gak', 'bisa', 'masuk', 'eror', 'di', 'bilang', 'nama', 'dan', 'no', 'ktp', 'tidak', 'sesuai', 'pdhal', 'no', 'ktp', 'dan', 'nama', 'aktif', 'di', 'capil', 'apakah', 'sudah', 'penuh', 'koutanya']"
+burukkk,-1,['burukkk']
+bisa antisivasi lindungi diri juga orang lain,1,"['bisa', 'antisivasi', 'lindungi', 'diri', 'juga', 'orang', 'lain']"
+"sudah di pastikan ini bukan masalah covid tapi ini lebih ke proyek para peraup keuntungan . tidak semua orang vaksin tidak semua orang memiliki gadget dan satu lagi ! orang vaksin bukan karna ingin kekebalan tubuh, tapi mereka vaksin 100% karna sertifikat yang di haruskan untuk aktivitas ruang publik ! sungguh miris indonesia ku!!!",-1,"['sudah', 'di', 'pastikan', 'ini', 'bukan', 'masalah', 'covid', 'tapi', 'ini', 'lebih', 'ke', 'proyek', 'para', 'peraup', 'keuntungan', 'tidak', 'semua', 'orang', 'vaksin', 'tidak', 'semua', 'orang', 'memiliki', 'gadget', 'dan', 'satu', 'lagi', 'orang', 'vaksin', 'bukan', 'karna', 'ingin', 'kekebalan', 'tubuh', 'tapi', 'mereka', 'vaksin', '100', 'karna', 'sertifikat', 'yang', 'di', 'haruskan', 'untuk', 'aktivitas', 'ruang', 'publik', 'sungguh', 'miris', 'indonesia', 'ku']"
+udah 2x vaksin .tapi sertifikat. ga ada yang. muncul. satupun,-1,"['udah', '2x', 'vaksin', 'sertifikat', 'ga', 'ada', 'yang', 'muncul', 'satupun']"
+sangat baik,1,"['sangat', 'baik']"
+saya udah vaksin cuma belum ada sertifikat y lama,-1,"['saya', 'udah', 'vaksin', 'cuma', 'belum', 'ada', 'sertifikat', 'y', 'lama']"
+iki.. .... ok,1,['ok']
+ini kok mau di pencet lanjutkan ga bisa ya:),-1,"['ini', 'kok', 'mau', 'di', 'pencet', 'lanjutkan', 'ga', 'bisa', 'ya']"
+mamtap,1,['mamtap']
+????,0,[]
+mantap jiwa ??????,1,"['mantap', 'jiwa']"
+"cara ganti no tlp yg terdaftar gmn ya , sudah email ga ada tanggapan , krn sya butuh sertifikat vaksin , no yg baru sudah sya daftarkan , nik juga sudah sya masukkan , tp sertifikat ga muncul2 gmna ini ???",-1,"['cara', 'ganti', 'no', 'tlp', 'yg', 'terdaftar', 'gmn', 'ya', 'sudah', 'email', 'ga', 'ada', 'tanggapan', 'krn', 'sya', 'butuh', 'sertifikat', 'vaksin', 'no', 'yg', 'baru', 'sudah', 'sya', 'daftarkan', 'nik', 'juga', 'sudah', 'sya', 'masukkan', 'tp', 'sertifikat', 'ga', 'muncul2', 'gmna', 'ini']"
+cuku membantu,1,"['cuku', 'membantu']"
+"aplikasi ini ngga adil karena hanya memberlakukan kepada wni saja, sedangkan wna boleh masuk tanpa scan cukup menunjukkan sertifikat vaksin dari negaranya....apa hanya wni yg bisa menularkan virus sehingga hanya wni yg perlu dilacak ?",-1,"['aplikasi', 'ini', 'ngga', 'adil', 'karena', 'hanya', 'memberlakukan', 'kepada', 'wni', 'saja', 'sedangkan', 'wna', 'boleh', 'masuk', 'tanpa', 'scan', 'cukup', 'menunjukkan', 'sertifikat', 'vaksin', 'dari', 'negaranya', 'hanya', 'wni', 'yg', 'bisa', 'menularkan', 'virus', 'sehingga', 'hanya', 'wni', 'yg', 'perlu', 'dilacak']"
+bagus banget.....,1,"['bagus', 'banget']"
+"sudah sesuai isi data dengan ktp, sampek mentelengin liat mana yang salah padahal sesuaiiii bangetttttt dengan ktp, tapi nggk bisa bisa, aku nggk tau gimana solusinya sampek pingin banting hp. gregeten banget periksa periksa terus",-1,"['sudah', 'sesuai', 'isi', 'data', 'dengan', 'ktp', 'sampek', 'mentelengin', 'liat', 'mana', 'yang', 'salah', 'padahal', 'sesuaiiii', 'bangetttttt', 'dengan', 'ktp', 'tapi', 'nggk', 'bisa', 'bisa', 'aku', 'nggk', 'tau', 'gimana', 'solusinya', 'sampek', 'pingin', 'banting', 'hp', 'gregeten', 'banget', 'periksa', 'periksa', 'terus']"
+baik,1,['baik']
+udh vaksin 2x. sertifikatnya ke2 blm bisa keluar mohon aplikasimya dibenahi dong .trm,-1,"['udh', 'vaksin', '2x', 'sertifikatnya', 'ke2', 'blm', 'bisa', 'keluar', 'mohon', 'aplikasimya', 'dibenahi', 'dong']"
+"maaf sebelumnya, saya sudah vaksin yang pertama tapi belum dapat sms, terus saya juga sudah login ke apk ini tapi sertifikat saya belum muncul muncul",-1,"['maaf', 'sebelumnya', 'saya', 'sudah', 'vaksin', 'yang', 'pertama', 'tapi', 'belum', 'dapat', 'sms', 'terus', 'saya', 'juga', 'sudah', 'login', 'ke', 'apk', 'ini', 'tapi', 'sertifikat', 'saya', 'belum', 'muncul', 'muncul']"
+aneh ... ngisi data sendiri ga bs2 ... kan jadi lucu,-1,"['aneh', 'ngisi', 'data', 'sendiri', 'ga', 'bs2', 'kan', 'jadi', 'lucu']"
+bagus,1,['bagus']
+kok tanggal lahir di akun saya enggak bisa di isi?,-1,"['kok', 'tanggal', 'lahir', 'di', 'akun', 'saya', 'enggak', 'bisa', 'di', 'isi']"
+ok,1,['ok']
+"mohon maaf kenapa akun punya ayah saya tapi sertifikasi, riwayat dan tiket vaksin itu punya saya? saya udah cek nik dan no tlp punya ayah saya tapi tetep aja sertifikatnya punya saya. apknya kenapa deh...",-1,"['mohon', 'maaf', 'kenapa', 'akun', 'punya', 'ayah', 'saya', 'tapi', 'sertifikasi', 'riwayat', 'dan', 'tiket', 'vaksin', 'itu', 'punya', 'saya', 'saya', 'udah', 'cek', 'nik', 'dan', 'no', 'tlp', 'punya', 'ayah', 'saya', 'tapi', 'tetep', 'aja', 'sertifikatnya', 'punya', 'saya', 'apknya', 'kenapa', 'deh']"
+kenapa ya vaksin yg ke 2 sertifikat ga bisa muncul...,-1,"['kenapa', 'ya', 'vaksin', 'yg', 'ke', '2', 'sertifikat', 'ga', 'bisa', 'muncul']"
+sangat membantu karena bisa melacak penyebaran covid,1,"['sangat', 'membantu', 'karena', 'bisa', 'melacak', 'penyebaran', 'covid']"
+nice,1,['nice']
+serrifikat saya belum keluar... tidak muncul gmn donk,-1,"['serrifikat', 'saya', 'belum', 'keluar', 'tidak', 'muncul', 'gmn', 'donk']"
+jelek,-1,['jelek']
+saya sudah vaksin ke dua tiap kali buka aplikasi harus uninstall dulu terus instal lg. kalo out cuma ada info aplikasi aja gak bisa di buka. gimna sih aplikasi ini masa tiap mau pake harus install dulu,-1,"['saya', 'sudah', 'vaksin', 'ke', 'dua', 'tiap', 'kali', 'buka', 'aplikasi', 'harus', 'uninstall', 'dulu', 'terus', 'instal', 'lg', 'kalo', 'out', 'cuma', 'ada', 'info', 'aplikasi', 'aja', 'gak', 'bisa', 'di', 'buka', 'gimna', 'sih', 'aplikasi', 'ini', 'masa', 'tiap', 'mau', 'pake', 'harus', 'install', 'dulu']"
+"mau bertanya, apakah sertifikat vaksin di aplikasi memang belum tersedia kalau hanya vaksin pertama?.... karena kemarin saya sudah vaksin pertama tapi saya coba cek sertifikatnya di aplikasi @pedulilindungi tapi belum tersedia, mohon penjelasannya... thank you",-1,"['mau', 'bertanya', 'apakah', 'sertifikat', 'vaksin', 'di', 'aplikasi', 'memang', 'belum', 'tersedia', 'kalau', 'hanya', 'vaksin', 'pertama', 'karena', 'kemarin', 'saya', 'sudah', 'vaksin', 'pertama', 'tapi', 'saya', 'coba', 'cek', 'sertifikatnya', 'di', 'aplikasi', 'pedulilindungi', 'tapi', 'belum', 'tersedia', 'mohon', 'penjelasannya', 'thank', 'you']"
+kok tgl lahirnya ngak bisa ya,-1,"['kok', 'tgl', 'lahirnya', 'ngak', 'bisa', 'ya']"
+aplikasi sangat membantu,1,"['aplikasi', 'sangat', 'membantu']"
+sangat membantu????,1,"['sangat', 'membantu']"
+tidak dapat mengunduh sertifikat vaksin,-1,"['tidak', 'dapat', 'mengunduh', 'sertifikat', 'vaksin']"
+aikasi bikin emosi,-1,"['aikasi', 'bikin', 'emosi']"
+membantu,1,['membantu']
+cukup baik sekali tapi ini buat revisi pengisian tgl lahirnya kelamaan ??,0,"['cukup', 'baik', 'sekali', 'tapi', 'ini', 'buat', 'revisi', 'pengisian', 'tgl', 'lahirnya', 'kelamaan']"
+sering kali gps tidak sesuai,-1,"['sering', 'kali', 'gps', 'tidak', 'sesuai']"
+bagus banget aplikasi nya cocok banget lagi keadaan covid-19 sekarang ini dan engga usah bawa surat vaksin kemana 2 kalau mau jalan 2 guys tinggal di pecet dan tinggal di download aja aplikasi kita kan bisa cek ke aplikasi nya langsung loh guys,1,"['bagus', 'banget', 'aplikasi', 'nya', 'cocok', 'banget', 'lagi', 'keadaan', 'sekarang', 'ini', 'dan', 'engga', 'usah', 'bawa', 'surat', 'vaksin', 'kemana', '2', 'kalau', 'mau', 'jalan', '2', 'guys', 'tinggal', 'di', 'pecet', 'dan', 'tinggal', 'di', 'download', 'aja', 'aplikasi', 'kita', 'kan', 'bisa', 'cek', 'ke', 'aplikasi', 'nya', 'langsung', 'loh', 'guys']"
+"aplikasi ini bermanfaat banget, bisa tahu mana zona hijau agar aman dari covid-19 tapi butuh upgrade soal info jumlah korban covid-19 yang terpapar.",1,"['aplikasi', 'ini', 'bermanfaat', 'banget', 'bisa', 'tahu', 'mana', 'zona', 'hijau', 'agar', 'aman', 'dari', 'tapi', 'butuh', 'upgrade', 'soal', 'info', 'jumlah', 'korban', 'yang', 'terpapar']"
+aplikasi ga bisa dibuka udah berulang kali coba. memori juga aman aplikasi ini aja yg ga bisa kebuka kenapa ya,-1,"['aplikasi', 'ga', 'bisa', 'dibuka', 'udah', 'berulang', 'kali', 'coba', 'memori', 'juga', 'aman', 'aplikasi', 'ini', 'aja', 'yg', 'ga', 'bisa', 'kebuka', 'kenapa', 'ya']"
+"apl selalu meminta izin lokasi,. sdh diatur ntp ttp tidak mw trbuka.",-1,"['apl', 'selalu', 'meminta', 'izin', 'lokasi', 'sdh', 'diatur', 'ntp', 'ttp', 'tidak', 'mw', 'trbuka']"
+??????????????????,0,[]
+saya sangat puast sekali,1,"['saya', 'sangat', 'puast', 'sekali']"
+sangat jelek sekali,-1,"['sangat', 'jelek', 'sekali']"
+bagus,1,['bagus']
+copad copid tros,0,"['copad', 'copid', 'tros']"
+tdk bisa isi tanggal lahir. sdh d pilih malah gk ke isi. mohon perbaiki lagi,-1,"['tdk', 'bisa', 'isi', 'tanggal', 'lahir', 'sdh', 'd', 'pilih', 'malah', 'gk', 'ke', 'isi', 'mohon', 'perbaiki', 'lagi']"
+sangat membantu,1,"['sangat', 'membantu']"
+makasih joss ..,1,"['makasih', 'joss']"
+saat mengisi data diri di tanggal lahir kok nggak bisa diisi. bagaimana mengatasi hal tersebut terimakasih,-1,"['saat', 'mengisi', 'data', 'diri', 'di', 'tanggal', 'lahir', 'kok', 'nggak', 'bisa', 'diisi', 'bagaimana', 'mengatasi', 'hal', 'tersebut', 'terimakasih']"
+agak lumayan lancar kinerja nyaa,1,"['agak', 'lumayan', 'lancar', 'kinerja', 'nyaa']"
+sengat baik dan dapat membantu masyarakat,1,"['sengat', 'baik', 'dan', 'dapat', 'membantu', 'masyarakat']"
+tolong d benahi aplikasi ni susah bgt di buka,-1,"['tolong', 'd', 'benahi', 'aplikasi', 'ni', 'susah', 'bgt', 'di', 'buka']"
+ga bisa digunkan,-1,"['ga', 'bisa', 'digunkan']"
+supir angot,0,"['supir', 'angot']"
+kenapa untuk ngecek sertifikatnya tidak keluar?,-1,"['kenapa', 'untuk', 'ngecek', 'sertifikatnya', 'tidak', 'keluar']"
+"ini gimana ya,, mau login tapi no yang terdaftar untuk vaksin hilang. tolong infonya",-1,"['ini', 'gimana', 'ya', 'mau', 'login', 'tapi', 'no', 'yang', 'terdaftar', 'untuk', 'vaksin', 'hilang', 'tolong', 'infonya']"
+ini kok susah bngt nginstalnya dowloadnya cepet tapi lama bngt instalny,-1,"['ini', 'kok', 'susah', 'bngt', 'nginstalnya', 'dowloadnya', 'cepet', 'tapi', 'lama', 'bngt', 'instalny']"
+mantap,1,['mantap']
+"saya tidak bisa memasukkan tanggal bulan,tahun tiap saya klik ok kembali semula kosong. mohon bantuanya",-1,"['saya', 'tidak', 'bisa', 'memasukkan', 'tanggal', 'bulan', 'tahun', 'tiap', 'saya', 'klik', 'ok', 'kembali', 'semula', 'kosong', 'mohon', 'bantuanya']"
+jelek,-1,['jelek']
+kenapa susah menulis tgl lahir udh ok ga berhasil trs,-1,"['kenapa', 'susah', 'menulis', 'tgl', 'lahir', 'udh', 'ok', 'ga', 'berhasil', 'trs']"
+sangat berguna,1,"['sangat', 'berguna']"
+aplikasi nya jelekkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk tapi bohong hayyuk pal pale pal pale pal pale paleee buruan download wkwkkwk,0,"['aplikasi', 'nya', 'jelekkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk', 'tapi', 'bohong', 'hayyuk', 'pal', 'pale', 'pal', 'pale', 'pal', 'pale', 'paleee', 'buruan', 'download', 'wkwkkwk']"
+"saya sudah beberapa kali coba download aplikasi ny knpaa tidak bisaa , ket ( tertunda?)",-1,"['saya', 'sudah', 'beberapa', 'kali', 'coba', 'download', 'aplikasi', 'ny', 'knpaa', 'tidak', 'bisaa', 'ket', 'tertunda']"
+"alhamdulillah sangat2 membantu masakat dengan aplikasi, pedulilindungi...????????",1,"['alhamdulillah', 'sangat2', 'membantu', 'masakat', 'dengan', 'aplikasi', 'pedulilindungi']"
+terimakasih atas layanan ny??,1,"['terimakasih', 'atas', 'layanan', 'ny']"
+siti kurnia,0,"['siti', 'kurnia']"
+"tanggal lahir panjang bener untuk di buka, apalagi yang tahun 1981. . hmmmm",-1,"['tanggal', 'lahir', 'panjang', 'bener', 'untuk', 'di', 'buka', 'apalagi', 'yang', 'tahun', 'hmmmm']"
+tq,1,['tq']
+aplikasi sngt bgussssssss??????????????????????,1,"['aplikasi', 'sngt', 'bgussssssss']"
+"saya sudah di vaksin 2 kali tapi sampai saat ini saya tdk bisa mencetak sertifikat nya padahal ortu saya sudah bisa di cetak duluan dan tertera bentuk sertifikat nya ini dalam satu aplikasi dan no hp yg sama, bagaimana solusinya, terimakasih",-1,"['saya', 'sudah', 'di', 'vaksin', '2', 'kali', 'tapi', 'sampai', 'saat', 'ini', 'saya', 'tdk', 'bisa', 'mencetak', 'sertifikat', 'nya', 'padahal', 'ortu', 'saya', 'sudah', 'bisa', 'di', 'cetak', 'duluan', 'dan', 'tertera', 'bentuk', 'sertifikat', 'nya', 'ini', 'dalam', 'satu', 'aplikasi', 'dan', 'no', 'hp', 'yg', 'sama', 'bagaimana', 'solusinya', 'terimakasih']"
+aplikasi ??,0,['aplikasi']
+rumit,1,['rumit']
+saya sudah mencoba untuk login dengan no hp saya. namun saat sudah di bagian proses mengaktifkan lokasi saya kembali ke layar info aplikasi peduli lindungi. tolong adakah saran untuk mengatasinya?,-1,"['saya', 'sudah', 'mencoba', 'untuk', 'login', 'dengan', 'no', 'hp', 'saya', 'namun', 'saat', 'sudah', 'di', 'bagian', 'proses', 'mengaktifkan', 'lokasi', 'saya', 'kembali', 'ke', 'layar', 'info', 'aplikasi', 'peduli', 'lindungi', 'tolong', 'adakah', 'saran', 'untuk', 'mengatasinya']"
+sangat membantu praktis dan mudah..,1,"['sangat', 'membantu', 'praktis', 'dan']"
+cukup membantu,1,"['cukup', 'membantu']"
+sgt bagus sertifikat vaksinasi kita ad di sini,1,"['sgt', 'bagus', 'sertifikat', 'vaksinasi', 'kita', 'ad', 'di', 'sini']"
+saya kasi bintang 4 karna saya masi bingung mau kasih binta 5 soalnya untuk scan qr nya gelap gimna mau scanya klau sayan berpergian,1,"['saya', 'kasi', 'bintang', '4', 'karna', 'saya', 'masi', 'bingung', 'mau', 'kasih', 'binta', '5', 'soalnya', 'untuk', 'scan', 'qr', 'nya', 'gelap', 'gimna', 'mau', 'scanya', 'klau', 'sayan', 'berpergian']"
+gak jelas aplikasi sering eror,-1,"['gak', 'jelas', 'aplikasi', 'sering', 'eror']"
+sudah vaksin tp sertifikat belum muncul,1,"['sudah', 'vaksin', 'tp', 'sertifikat', 'belum', 'muncul']"
+"bug trus ketika mendaftar, segala solusi sudah digunakan",1,"['bug', 'trus', 'ketika', 'mendaftar', 'segala', 'solusi', 'sudah', 'digunakan']"
+sukaaa ??,1,['sukaaa']
+sangat berfungsi,1,"['sangat', 'berfungsi']"
